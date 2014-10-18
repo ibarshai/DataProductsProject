@@ -74,6 +74,8 @@ This application creates a quick way to play around with the covariate selection
 
 <p>With this input, we will be creating a linear model to predict the mpg variable constructed out of the horsepower term, weight term, as well as the interaction between these two terms. The expected formula for our model will be as follows:</p>
 
+<p>mpg ~ hp + wt + hp*wt</p>
+
 </div>
 
 <style>
